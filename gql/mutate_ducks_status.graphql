@@ -1,0 +1,12 @@
+
+
+mutation UpdateColumnValue{
+    change_simple_column_value (
+        board_id: 6593898768,
+        item_id: 6593898883,
+        column_id: "status",
+        value: "0")
+        {
+            id
+        }
+    }

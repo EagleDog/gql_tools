@@ -1,0 +1,13 @@
+#ducks_items.graphql
+
+query {
+  boards(ids: 6593898768) {
+    name
+    items_page {
+      items {
+        id
+        name
+      }
+    }
+  }
+}

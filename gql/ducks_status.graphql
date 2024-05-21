@@ -1,0 +1,19 @@
+
+query {
+
+  boards(ids: 6593898768) {
+    name
+    items_page {
+      items {
+        id
+        name
+        column_values(ids: "status") {
+          id
+          value
+          text
+        }
+      }
+    }
+  }
+}
+

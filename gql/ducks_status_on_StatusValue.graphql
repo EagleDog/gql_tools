@@ -1,0 +1,31 @@
+
+query {
+
+  boards(ids: 6593898768) {
+    name
+    items_page {
+      items {
+        id
+        name
+        column_values {
+          ... on StatusValue {
+            id
+            index
+						label
+            text
+            value
+						update_id
+            updated_at
+            __typename
+            is_done
+            label_style {
+              border
+              color
+            }
+            
+          }
+        }
+      }
+    }
+  }
+}
