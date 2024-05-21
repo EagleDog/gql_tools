@@ -1,6 +1,5 @@
 import requests
 import json
-#
 
 apiKey = open("box/basic_key.txt", "r").read()
 apiUrl = "https://api.monday.com/v2"
