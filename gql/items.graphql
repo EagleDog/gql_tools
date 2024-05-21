@@ -1,4 +1,4 @@
-#ducks_items.graphql
+#items.graphql
 
 query {
   boards(ids: 6593898768) {

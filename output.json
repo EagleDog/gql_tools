@@ -1,0 +1,69 @@
+{
+  "data": {
+    "boards": [
+      {
+        "name": "ducks",
+        "items_page": {
+          "items": [
+            {
+              "id": "6593898883",
+              "name": "feed ducks",
+              "column_values": [
+                {
+                  "id": "status",
+                  "value": "{\"index\":6,\"changed_at\":\"2024-05-15T14:50:20.492Z\"}",
+                  "text": "ready"
+                }
+              ]
+            },
+            {
+              "id": "6593898910",
+              "name": "feed ducklings",
+              "column_values": [
+                {
+                  "id": "status",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2019-03-01T17:28:23.178Z\"}",
+                  "text": "Done"
+                }
+              ]
+            },
+            {
+              "id": "6593898929",
+              "name": "change water",
+              "column_values": [
+                {
+                  "id": "status",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2024-05-15T14:21:48.685Z\"}",
+                  "text": "Working on it"
+                }
+              ]
+            },
+            {
+              "id": "6593898970",
+              "name": "trap fox",
+              "column_values": [
+                {
+                  "id": "status",
+                  "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2024-05-15T13:58:26.033Z\"}",
+                  "text": "Stuck"
+                }
+              ]
+            },
+            {
+              "id": "6593898943",
+              "name": "remove fox",
+              "column_values": [
+                {
+                  "id": "status",
+                  "value": "{\"index\":10,\"post_id\":null,\"changed_at\":\"2024-05-15T14:44:08.898Z\"}",
+                  "text": "group discussion"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "account_id": 23321084
+}

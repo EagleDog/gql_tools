@@ -1,10 +1,17 @@
-readme.txt gql_tools
+__gql_tools__
+minimal graphql examples
 
-Save your api_key
-in the /box folder.
+1.
+  Save your api_key
+  in the /box folder.
 
-Go into query.py and
-make the following line
-point to your gql file:
+2.
+  Go into query.py and
+  make the following line
+  point to your gql file:
 
-query1 = open("gql/ducks_status.graphql", "r").read()
+  query1 = open("gql/status.graphql", "r").read()
+
+3.
+  Run 'py query.py' from command line.
+  Output appears in 'output.json'.
